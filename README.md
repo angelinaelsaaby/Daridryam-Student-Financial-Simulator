@@ -19,12 +19,6 @@ Daridryam is a Java-based Student Financial Survival Simulator designed to help 
 - JDBC
 - MySQL Connector/J
 
-## Project Team
-- Angelina Elsa Aby – B25CS1113
-- Ashdil Alexander – B25CS1117
-- Aslam A – B25CS1120
-- Keith Johnson Easo – B25CS1136
-
 ## Institution
 Mar Baselios College of Engineering and Technology (MBCET), Thiruvananthapuram.
 
